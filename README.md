@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **deep learning projects and cloud computing**
 
-- 👯 I’m looking to collaborate on **anything data-related or discuss AI, NLP, and deep learning**
+- 🤝 I’m looking to collaborate on **anything data-related or discuss AI, NLP, and deep learning**
 
-- 🤝 I’m currently learning to **enhance my skills in cloud infrastructure with AWS, focusing on deploying scalable machine learning models**
+- 🤔 I’m currently learning to **enhance my skills in cloud infrastructure with AWS, focusing on deploying scalable machine learning models**
 
 - 💬 Ask me about **Data Science, Machine Learning, NLP, TensorFlow, Transformers, Flask apps, Real-world AI applications**
 
