@@ -1,7 +1,7 @@
 <p align="center"><strong>Hi 👋, I'm Davitya Kumar</strong></p>
 <p align="center"><strong>I'm a passionate Data Scientist from India with a deep interest in leveraging data to solve complex problems. My expertise spans machine learning, natural language processing (NLP), deep learning, and building AI solutions that make an impact.</strong></p>
 
-- 🔭 I’m currently working on **deep learning projects and cloud computing**
+- 🔭 I’m currently working on **deep learning project**
 
 - 🤝 I’m looking to collaborate on **anything data-related or discuss AI, NLP, and deep learning**
 
